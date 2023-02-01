@@ -1,0 +1,1980 @@
+1-1. The _______ model is the basis for today's computers!
+a. Leibnitz
+b. von Neumann
+c. Pascal
+d. Charles Babbage
+B
+
+
+1-2. In a computer, the _______ subsystem stores data and programs.
+a. ALU
+b. input/output
+c. memory
+d. control unit
+C
+
+
+1-3. In a computer, the _______ subsystem performs calculations and
+logical operations.
+a. ALU
+b. input/output
+c. memory
+d. control unit
+A
+
+
+1-4. In a computer, the _______ subsystem accepts data and programs and
+sends processing results to output devices.
+a. ALU
+b. input/output
+c. memory
+d. control unit
+B
+
+
+1-5. In a computer, the _______ subsystem serves as a manager of the
+other subsystems.
+a. ALU
+b. input/output
+c. memory
+d. control unit
+D
+
+
+1-6. According to the von Neumann model, _______ are stored in mem-
+ory.
+a. only data
+b. only programs
+c. data and programs
+d. neither data nor programs
+C
+
+
+1-7. A step-by-step solution to a problem is called _______.
+a. hardware
+b. an operating system
+c. a computer language
+d. an algorithm
+d
+
+
+1-8. FORTRAN and COBOL are examples of _______.
+a. hardware
+b. operating systems
+c. computer languages
+d. algorithms
+c
+
+
+1-9. A 17th-century computing machine that could perform addition and
+subtraction was the _______.
+a. Pascaline
+b. Jacquard loom
+c. Analytical Engine
+d. Babbage machine
+a
+
+
+1-10. _______ is a set of instructions in a computer language that tells the
+computer what to do with data.
+a. An operating system
+b. An algorithm
+c. A data processor
+d. A program
+d
+
+
+1-11. _______ is the design and writing of a program in structured form.
+a. Software engineering
+b. Hardware engineering
+c. Algorithm development
+d. Instructional architecture
+a
+
+
+1-12. The first electronic special-purpose computer was called _______.
+a. Pascal
+b. Pascaline
+c. ABC
+d. ENIAC
+c
+
+
+1-13. One of the first computers based on the von Neumann model was
+called _______.
+a. Pascal
+b. Pascaline
+c. ABC
+d. EDVAC
+d
+
+
+1-14. The first computing machine to use the idea of storage and program-
+ming was called _______.
+a. the Madeline
+b. EDVAC
+c. the Babbage machine
+d. the Jacquard loom
+d
+
+
+1-15. _______ separated the programming task from computer operation
+tasks.
+a. Algorithms
+b. Data processors
+c. High-level programming languages
+d. Operating systems
+c
+
+
+2-1. The base of the decimal number system is ____.
+a. 2
+b. 8
+c. 10
+d. 16
+c
+
+
+2-2. The base of the binary number system is ____.
+a. 2
+b. 8
+c. 10
+d. 16
+a
+
+
+2-3. The base of the octal number system is ____.
+a. 2
+b. 8
+c. 10
+d. 16
+b
+
+
+2-4. The base of the hexadecimal number system is ____.
+a. 2
+b. 8
+c. 10
+d. 16
+d
+
+
+2-5. When converting a decimal integer to base b, we repeatedly _____ b.
+a. divide by
+b. multiply by
+c. add to
+d. subtract from
+a
+
+
+2-6. When converting a decimal fraction to base b, we repeatedly ____b.
+a. divide by
+b. multiply by
+c. add to
+d. subtract from
+b
+
+
+2-7. Which of the following representations is erroneous?
+a. (10111)2
+b. (349)8
+c. (3AB)16
+d. 256
+b
+
+
+2-8. Which of the following representations is erroneous?
+a. (10211)2
+b. (342)8
+c. (EEE)16
+d. 145
+a
+
+
+2-9. Which of the following representations is erroneous?
+a. (111)2
+b. (346)8
+c. (EEG)16
+d. 221
+c
+
+
+2-10. Which of the following representations is erroneous?
+a. (110)2
+b. (141)8
+c. (EF)16
+d. 22A
+d
+
+
+2-11. Which of the following is equivalent to 12 in decimal?
+a. (1110)2
+b. (C)16
+c. (15)8
+d. None of the above
+b
+
+
+2-12. Which of the following is equivalent to 24 in decimal?
+a. (11000)2
+b. (1A)16
+c. (31)8
+d. None of the above
+a
+
+
+3-1. A byte consists of _______ bits.
+a. 2
+b. 4
+c. 8
+d. 16
+c
+
+
+3-2. In a set of 64 symbols, each symbol requires a bit pattern length of
+_______ bits.
+a. 4
+b. 5
+c. 6
+d. 7
+c
+
+
+3-3. How many symbols can be represented by a bit pattern with ten bits?
+a. 128
+b. 256
+c. 512
+d. 1024
+d
+
+
+3-4. If the ASCII code for E is 1000101, then the ASCII code for e is
+_______. Answer the question without consulting the ASCII table.
+a. 1000110
+b. 1000111
+c. 0000110
+d. 1100101
+d
+
+
+3-5. A 32-bit code called _______ represents symbols in all languages.
+a. ANSI
+b. Unicode
+c. EBCDIC
+d. Extended ASCII
+b
+
+
+3-6. An image can be represented in a computer using the _______
+method.
+a. bitmap graphic only
+b. vector graphic only
+c. Excess system only
+d. either bitmap or vector graphic
+d
+
+
+3-7. In the _______ graphic method of representing an image in a com-
+puter, each pixel is assigned a bit patterns.
+a. bitmap
+b. vector
+c. quantized
+d. binary
+a
+
+
+3-8. In the _______ graphic method of representing an image in a com-
+puter, the image is decomposed into a combination of geometrical
+figures.
+a. bitmap
+b. vector
+c. quantized
+d. binary
+b
+
+
+3-9. In the _______ graphic method of representing an image in a com-
+puter, re-scaling of the image creates a ragged or grainy image.
+a. bitmap
+b. vector
+c. quantized
+d. binary
+a
+
+
+3-10. When we want to store music in a computer, the audio signal must be _______.
+a. sampled only
+b. quantized only
+c. coded only
+d. sampled, quantized, and coded
+d
+
+
+3-11. A floating-point value after normalization is (1.0101) × 2−4. What is
+the value of exponent section in the Excess-127 representation?
+a. 4
+b. -4
+c. 127
+d. 123
+d
+
+
+3-12. Assume a new Excess system uses 17 bits to represent the exponent section. What is he bias value in this system?
+a. 17
+b. 16
+c. 65535
+d. 65536
+c
+
+
+3-13. Which number representation method is often used to store the exponential value of a fractional part?
+a. unsigned integers
+b. two's complement
+c. Excess
+d. ten's complement
+c
+
+
+3-14. In an Excess conversion, we _______ the number to be converted.
+a. add the bias number to
+b. subtract the bias number from
+c. multiply the bias number by
+d. divide the bias number by
+a
+
+
+3-15. When a fractional part is normalized, the computer stores the
+_______.
+a. only the sign
+b. only the exponent
+c. only the mantissa
+d. the sign, exponent, and mantissa
+d
+
+
+3-16. The precision of the fractional part of a number stored in a computer
+is defined by the _______.
+a. sign
+b. exponent
+c. mantissa
+d. last digit
+c
+
+
+3-17. The combination of sign and mantissa of a real number in IEEE stan-dard floating point format is stored as an integer in the ____________ representation.
+a. unsigned
+b. sign-and-magnitude
+c. two's complement
+d. one's complement
+B
+
+
+4-1. _______ is an arithmetic operation.
+a. The exclusive OR
+b. The unary NOT
+c. Subtraction
+d. The binary AND
+C
+
+
+4-2. _______ is a logical bit operator.
+a. The exclusive OR
+b. The unary NOT
+c. The binary AND
+d. exclusive OR, unary NOT, or binary AND
+D
+
+
+4-3. The _______ method of integer representation is the most common
+method for storing integers in computer memory.
+a. sign-and-magnitude
+b. one's complement
+c. two's complement
+d. unsigned integers
+C
+
+
+4-4. In two's complement addition, if there is a final carry after the left
+most column addition, _______.
+a. add it to the right most column
+b. add it to the left most column
+c. discard it
+d. increase the bit length
+C
+
+
+4-5. For an 8-bit allocation, the smallest decimal number that can be represented in two's complement form is _______.
+a. −8
+b. −127
+c. −128
+d. −256
+C
+
+
+4-6. For an 8-bit allocation, the largest decimal number that can be repre-
+sented in two's complement form is _______.
+a. 8
+b. 127
+c. 128
+d. 256
+B
+
+
+4-7. In two's complement representation with a 4-bit allocation, we get _______ when we add 1 to 7.
+a. 8
+b. 1
+c. −7
+d. −8
+D
+
+
+4-8. In two's complement representation with a 4-bit allocation, we get _______ when we add 5 to 5.
+a. −5
+b. −6
+c. −7
+d. 10
+B
+
+
+4-9. If the exponent in Excess_127 is binary 10000101, the exponent in
+decimal is _______.
+a. 6
+b. 7
+c. 8
+d. 9
+A
+
+
+4-10. If we are adding two numbers, one of which has an exponent value of 7 and the other an exponent value of 9, we need to shift the decimal point of the smaller number _______.
+a. one place to the left
+b. one place to the right
+c. two places to the left
+d. two places to the right
+C
+
+
+4-11. _______ operator (s) takes two inputs to produce one output.
+a. Only AND
+b. Only OR
+c. Only XOR
+d. AND, OR, or XOR
+D
+
+
+4-12. The unary _______ operator inverts its single input.
+a. AND
+b. OR
+c. NOT
+d. XOR
+C
+
+
+4-13. _______ operator (s), if the input is two 0s, the output is 0.
+a. In only AND
+b. In only OR
+c. In only XOR
+d. In AND, OR, or XOR
+D
+
+
+4-14. _______ operator (s), if the input is two 1s, the output is 0.
+a. In only AND
+b. In only OR
+c. In only XOR
+d. In AND, OR, or XOR
+C
+
+
+4-15. For the binary AND operation, only an input of _______ gives an
+output of 1.
+a. two 0s
+b. two 1s
+c. one 0 and one 1
+d. two 2s
+B
+
+
+4-16. For the binary OR operation, only an input of _______ gives an out-
+put of 0.
+a. two 0s
+b. two 1s
+c. one 0 and one 1
+d. two 2s
+A
+
+
+4-17. We use a bit pattern called a _______ to modify another bit pattern.
+a. mask
+b. carry
+c. float
+d. byte
+A
+
+
+4-18. To flip all the bits of a bit pattern, make a mask of all 1s and then
+_______ the bit pattern and the mask.
+a. AND
+b. OR
+c. XOR
+d. NOT
+C
+
+
+4-19. To un-set (force to 0) all the bits of a bit pattern, make a mask of all 0s and then _______ the bit pattern and the mask.
+a. AND
+b. OR
+c. XOR
+d. NOT
+A
+
+
+4-20. To set (force to 1) all the bits of a bit pattern, make a mask of all 1s
+and then _______ the bit pattern and the mask.
+a. AND
+b. OR
+c. XOR
+d. NOT
+B
+
+
+5-1. The _______ is a computer subsystem that performs operations on
+data.
+a. CPU
+b. memory
+c. I/O hardware
+d. bus subsystem
+A
+
+
+5-2. _______ is a stand-alone storage location that holds data temporarily.
+a. An ALU
+b. A register
+c. A control unit
+d. A tape drive
+B
+
+
+5-3. _______ is a unit that can add two inputs.
+a. An ALU
+b. A register
+c. A control unit
+d. A tape drive
+A
+
+
+5-4. A register in a CPU can hold _______.
+a. only data
+b. only instructions
+c. only program counter values
+d. data, instruction, or program counter values
+D
+
+
+5-5. A control unit with five wires can define up to _______ operations.
+a. 5
+b. 10
+c. 16
+d. 32
+D
+
+
+5-6. A word can be _______ bits.
+a. only 8
+b. only 16
+c. only 32
+d. 8, or 16, or 32
+D
+
+
+5-7. If the memory address space is 16 MB and the word size is 8 bits,
+then _______ bits are needed to access each word.
+a. 8
+b. 16
+c. 24
+d. 32
+C
+
+
+5-8. The data in _______ is erased if the computer is powered down.
+a. RAM
+b. ROM
+c. a tape drive
+d. a CD-ROM
+A
+
+
+5-9. _______ is a memory type with capacitors that need to be refreshed
+periodically.
+a. SRAM
+b. DRAM
+c. ROM
+d. CROM
+B
+
+
+5-10. _______ is a memory type with traditional flip-flop gates to hold
+data.
+a. SRAM
+b. DRAM
+c. ROM
+d. CROM
+A
+
+
+5-11. There are _______ bytes in 16 Terabytes.
+a. 216
+b. 240
+c. 244
+d. 256
+A
+
+
+5-12. _______ can be programmed and erased using electronic impulses
+but can remain in a computer during erasure.
+a. ROM
+b. PROM
+c. EPROM
+d. EEPROM
+D
+
+
+5-13. _______ is a type of memory in which the user, not the manufac-
+turer, stores programs that cannot be overwritten.
+a. ROM
+b. PROM
+c. EPROM
+d. EEPROM
+B
+
+
+5-14. Main memory in a computer usually consists of large amounts of
+______ speed memory.
+a. high
+b. medium
+c. low
+d. very high speed
+C
+
+
+5-15. A _______ is a storage device to which the user can write informa-
+tion only once.
+a. CD-ROM
+b. CD-R
+c. CD-RW
+d. CD-RR
+B
+
+
+5-16. A _______ is a storage device that can undergo multiple writes and
+erasures.
+a. CD-ROM
+b. CD-R
+c. CD-RW
+d. CD-RR
+C
+
+
+5-17. The smallest storage area on a magnetic disk that can be accessed at
+one time is a _______.
+a. track
+b. sector
+c. frame
+d. head
+B
+
+
+5-18. If the memory has 232 words, the address bus needs to have _______
+wires.
+a. 8
+b. 16
+c. 32
+d. 64
+C
+
+
+5-19. A control bus with eight wires can define _______ operations.
+a. 8
+b. 16
+c. 256
+d. 512
+C
+
+
+5-20. A _______ controller is a high-speed serial interface that transfers
+data in packets.
+a. SCSI
+b. USB
+c. FireWire
+d. USB and FireWire
+D
+
+
+5-21. The three steps in the running of a program on a computer are per-
+formed in the specific order _______.
+a. fetch, execute, and decode
+b. decode, execute, and fetch
+c. fetch, decode, and execute
+d. decode, fetch, and execute
+C
+
+
+5-22. In the _______ method for synchronizing the operation of the CPU
+with an I/O device, the I/O device informs the CPU when it is ready
+for data transfer.
+a. programmed I/O
+b. interrupt-driven I/O
+c. DMA
+d. isolated I/O
+B
+
+
+5-23. In the _______ method for synchronizing the operation of the CPU
+with an I/O device, the CPU is idle until the I/O operation is finished.
+a. programmed I/O
+b. interrupt-driven I/O
+c. DMA
+d. isolated I/O
+A
+
+
+5-24. In the _______ method for synchronizing the operation of the CPU
+with an I/O device, a large block of data can be passed from an I/O
+device to memory directly.
+a. programmed I/O
+b. interrupt-driven I/O
+c. DMA
+d. isolated I/O
+C
+
+
+6-1. The TCP/IP model has _______ layers.
+a. five
+b. six
+c. seven
+d. eight
+A
+
+
+6-2. The _______ layer of the TCP/IP protocol suite provides services for
+end users.
+a. data-link
+b. transport
+c. application
+d. physical
+C
+
+
+6-3. The _______ layer of the TCP/IP protocol suite transmits a bit
+stream over a physical medium.
+a. physical
+b. data-link
+c. network
+d. transport
+A
+
+
+6-4. The _______ layer of the TCP/IP protocol suite is responsible for
+node-to-node delivery of a frame between two adjacent nodes.
+a. transport
+b. network
+c. data-link
+d. session
+C
+
+
+6-5. The _______ layer of the TCP/IP protocol suite is responsible for
+source-to-destination delivery of the entire message.
+a. transport
+b. network
+c. data-link
+d. session
+B
+
+
+6-6. What is the domain name in the e-mail address kayla@nasa.gov?
+a. kayla
+b. kayla@nasa.gov
+c. nasa.gov
+d. gov
+C
+
+
+6-7. Which physical topology uses a hub or switch?
+a. bus
+b. ring
+c. star
+d. bus and ring
+C
+
+
+6-8. IP addresses are currently _______ bits in length.
+a. 4
+b. 8
+c. 32
+d. 40
+C
+
+
+6-9. _______ protocol (s) is one of the protocols in the transport layer.
+a. Only TCP
+b. Only UDP
+c. Only SCTP
+d. TCP, UDP, and SCTP
+D
+
+
+6-10. _______ is a protocol for file transfer.
+a. FTP
+b. SMTP
+c. TELNET
+d. HTTP
+A
+
+
+6-11. _______ is a protocol for e-mail services.
+a. FTP
+b. SMTP
+c. TELNET
+d. HTTP
+B
+
+
+6-12. _______ is a protocol for accessing and transferring documents on
+the WWW.
+a. FTP
+b. SMTP
+c. TELNET
+d. HTTP
+D
+
+
+7-1. _______ is a program that facilitates the execution of other pro-
+grams.
+a. An operating system
+b. Hardware
+c. A queue
+d. An application program
+A
+
+
+7-2. _______ supervises the activity of each component in a computer
+system.
+a. An operating system
+b. Hardware
+c. A queue
+d. An application program
+A
+
+
+7-3. Multi-programming requires a _______ operating-system.
+a. batch
+b. time-sharing
+c. parallel
+d. distributed
+B
+
+
+7-4. _______ is multi-programming with swapping.
+a. Partitioning
+b. Paging
+c. Demand paging
+d. Queuing
+C
+
+
+7-5. _______ is multi-programming without swapping.
+a. Partitioning
+b. Virtual memory
+c. Demand paging
+d. Queuing
+A
+
+
+7-6. In _______, only one program can reside in memory for execution.
+a. mono-programming
+b. multi-programming
+c. partitioning
+d. paging
+A
+
+
+7-7. _______ is a multi-programming method in which multiple pro-
+grams are entirely in memory with each program occupying a con-
+tiguous space.
+a. Partitioning
+b. Paging
+c. Demand paging
+d. Demand segmentation
+A
+
+
+7-8. In paging, a program is divided into equally sized sections called
+_______.
+a. pages
+b. frames
+c. segments
+d. partitions
+A
+
+
+7-9. In _______, the program can be divided into differently sized sec-
+tions.
+a. partitioning
+b. paging
+c. demand paging
+d. demand segmentation
+D
+
+
+7-10. In _______, the program can be divided into equally sized sections
+called pages, but the pages need not be in memory at the same time
+for execution.
+a. partitioning
+b. paging
+c. demand paging
+d. demand segmentation
+C
+
+
+7-11. A process in the _______ state can go to either the ready, terminated,
+or waiting states.
+a. hold
+b. virtual
+c. running
+d. hold or running
+C
+
+
+7-12. A process in the ready state goes to the running state when _______.
+a. it enters memory
+b. it requests I/O
+c. it gets access to the CPU
+d. it finishes running
+C
+
+
+7-13. A program becomes a _______ when it is selected by the operating
+system and brought to the hold state.
+a. job
+b. process
+c. deadlock
+d. partition
+A
+
+
+7-14. Every process is _______.
+a. only a job
+b. only a program
+c. only a partition
+d. a job and a program
+D
+
+
+7-15. The _______ scheduler creates a process from a job and changes a
+process back to a job.
+a. job
+b. process
+c. virtual
+d. queue
+A
+
+
+7-16. The _______ scheduler moves a process from one process state to
+another.
+a. job
+b. process
+c. virtual
+d. queue
+B
+
+
+7-17. To prevent _______, an operating system can put resource restric-
+tions on processes.
+a. starvation
+b. synchronization
+c. paging
+d. deadlock
+D
+
+
+7-18. _______ can occur if a process has too many resource restrictions.
+a. Starvation
+b. Synchronization
+c. Paging
+d. Deadlock
+A
+
+
+7-19. The _______ manager is responsible for archiving and backup.
+a. memory
+b. process
+c. device
+d. file
+D
+
+
+7-20. The _______ manager is responsible for access to I/O devices.
+a. memory
+b. process
+c. device
+d. file
+C
+
+
+8-1. _______ is a step-by-step method for solving a problem or doing a
+task.
+a. A construct
+b. A recursion
+c. An iteration
+d. An algorithm
+D
+
+
+8-2. There are ______ basic constructs in computer -science.
+a. one
+b. two
+c. three
+d. four
+C
+
+
+8-3. The _______construct tests a condition.
+a. sequence
+b. decision
+c. repetition
+d. flow
+B
+
+
+8-4. The _______ construct uses a set of actions one after another.
+a. sequence
+b. decision
+c. repetition
+d. flow
+A
+
+
+8-5. The _______ construct handles repeated actions.
+a. sequence
+b. decision
+c. repetition
+d. flow
+C
+
+
+8-6. _______ is a pictorial representation of an algorithm.
+a. A UML diagram
+b. A program
+c. Pseudocode
+d. An algorithm
+A
+
+
+8-7. _______ is an English-language-like representation of code.
+a. A UML diagram
+b. A program
+c. Pseudocode
+d. An algorithm
+C
+
+
+8-8. _______ is a basic algorithm that adds a list of numbers.
+a. Summation
+b. Product
+c. Smallest
+d. Largest
+A
+
+
+8-9. _______ is a basic algorithm that multiplies a list of numbers.
+a. Summation
+b. Product
+c. Smallest
+d. Largest
+B
+
+
+8-10. _______ is a basic algorithm that arranges data according to its
+value.
+a. Inquiry
+b. Sorting
+c. Searching
+d. Recursion
+B
+
+
+8-11. The items are divided into two lists (sorted and unsorted) _____ sort.
+a. only in a selection
+b. only in a bubble
+c. only in an insertion
+d. in selection, bubble, or insertion
+D
+
+
+8-12. In _______ sort, the item that goes into the sorted list is always the
+first item in the unsorted list.
+a. selection
+b. bubble
+c. insertion
+d. every
+C
+
+
+8-13. In _______ sort, the smallest item from the unsorted list is swapped
+with the item at the beginning of the unsorted list.
+a. selection
+b. bubble
+c. insertion
+d. every
+A
+
+
+8-14. In ______ sort, the smallest item moves to the beginning of the
+unsorted list. There is no one-to-one swapping.
+a. selection
+b. bubble
+c. insertion
+d. every
+B
+
+
+8-15. _______ is a basic algorithm in which we want to find the location of
+a target in a list of items.
+a. Sorting
+b. Searching
+c. Product
+d. Summation
+B
+
+
+8-16. We use a _______ search for an unordered list.
+a. sequential
+b. binary
+c. bubble
+d. insertion
+A
+
+
+8-17. We use a _______ search for an ordered list.
+a. sequential
+b. binary
+c. bubble
+d. insertion
+B
+
+
+8-18. _______ is a process in which an algorithm calls itself.
+a. Insertion
+b. Searching
+c. Recursion
+d. Iteration
+C
+
+
+9-1. The only language understood by computer hardware is a _______
+language.
+a. machine
+b. symbolic
+c. high-level
+d. natural
+A
+
+
+9-2. C, C++, and Java can be classified as _______ languages.
+a. machine
+b. symbolic
+c. high-level
+d. natural
+C
+
+
+9-3. FORTRAN is a(n) _______ language.
+a. procedural
+b. functional
+c. declarative
+d. object-oriented
+A
+
+
+9-4. Pascal is a(n) _______ language.
+a. procedural
+b. functional
+c. declarative
+d. object-oriented
+A
+
+
+9-5. Java is a(n) _______ language.
+a. procedural
+b. functional
+c. declarative
+d. object-oriented
+D
+
+
+9-6. LISP is a(n) _______ language.
+a. procedural
+b. functional
+c. declarative
+d. object-oriented
+B
+
+
+9-7. _______ is a common language in the business -environment.
+a. FORTRAN
+b. C++
+c. C
+d. COBOL
+D
+
+
+9-8. _______ is a popular object-oriented language.
+a. FORTRAN
+b. COBOL
+c. Java
+d. LISP
+C
+
+
+9-9. A _______ program can be either an application or an applet.
+a. FORTRAN
+b. C++
+c. C
+d. Java
+D
+
+
+9-10. LISP and Scheme are both _______ languages.
+a. procedural
+b. functional
+c. declarative
+d. object-oriented
+B
+
+
+9-11. Prolog is an example of a(n) _______ language.
+a. procedural
+b. functional
+c. declarative
+d. object-oriented
+C
+
+
+10-1. One phase in system development is _______.
+a. analysis
+b. application
+c. designing
+d. collecting
+A
+
+
+10-2. Defining the users, requirements, and methods is part of the _______
+phase.
+a. analysis
+b. design
+c. implementation
+d. testing
+A
+
+
+10-3. In the system development process, writing the program is part of the
+_______ phase.
+a. analysis
+b. design
+c. implementation
+d. testing
+C
+
+
+10-4. In the system development process, structure charts are tools used in
+the _______ phase.
+a. analysis
+b. design
+c. implementation
+d. testing
+B
+
+
+10-5. Testing a software system can involve _______ testing.
+a. black-box
+b. glass-box
+c. neither black-box nor glass-box
+d. both black-box and glass-box
+D
+
+
+10-6. _______ is the breaking up of a large project into smaller parts.
+a. Coupling
+b. Incrementing
+c. Obsolescence
+d. Modularization
+D
+
+
+10-7. _______ is a measure of how tightly two modules are bound to each
+other.
+a. Modularity
+b. Coupling
+c. Interoperability
+d. Cohesion
+B
+
+
+10-8. _________between modules in a software system must be mini-
+mized.
+a. Coupling
+b. Cohesion
+c. Neither coupling nor cohesion
+d. Both coupling and cohesion
+A
+
+
+10-9. _________between modules in a software system must be maxi-
+mized.
+a. Coupling
+b. Cohesion
+c. Neither coupling nor cohesion
+d. Both coupling and cohesion
+B
+
+
+11-1. A data structure can be _______.
+a. only an array
+b. only a record
+c. only a linked list
+d. an array, a record, or a linked list
+D
+
+
+11-2. An array that consists of just rows and columns is a _______ array.
+a. one-dimensional
+b. two-dimensional
+c. three-dimensional
+d. multidimensional
+B
+
+
+11-3. Each element in a record is called _______.
+a. a variable
+b. an index
+c. a field
+d. a node
+C
+
+
+11-4. All the members of a record must be _______.
+a. the same type
+b. related types
+c. integer type
+d. character type
+B
+
+
+11-5. _______ is an ordered collection of data in which each element contains the location of the next element.
+a. An array
+b. A record
+c. A linked list
+d. A file
+C
+
+
+11-6. In a linked list, each element contains _______.
+a. only data
+b. only a link
+c. neither data nor a link
+d. data and a link
+D
+
+
+11-7. The _______ is a pointer that identifies the next element in the
+linked list.
+a. link
+b. node
+c. array
+d. data
+A
+
+
+11-8. Given a linked list called children, the pointer variable children identifies ________ element of the linked list.
+a. the first
+b. the second
+c. the last
+d. any
+A
+
+
+11-9. An empty linked list consists of _______.
+a. a node
+b. two nodes
+c. data and a link
+d. a null head pointer
+D
+
+
+11-10. To traverse a list, you need a _______ pointer.
+a. null
+b. walking
+c. beginning
+d. insertion
+B
+
+
+12-1. In an abstract data type, _______.
+a. the ADT implementation is known
+b. the ADT implementation is hidden
+c. the ADT public operations are hidden
+d. Nothing is hidden
+B
+
+
+12-2. A stack is a _________ structure.
+a. FIFO
+b. LIFO
+c. DIFO
+d. SIFO
+B
+
+
+12-3. A(n) _______ list is also known as a queue.
+a. LIFO
+b. FIFO
+c. unordered
+d. ordered
+B
+
+
+12-4. If A is the first data element input into a stack, followed by B, C, and
+D, then _______ is the first element to be removed.
+a. A
+b. B
+c. C
+d. D
+D
+
+
+12-5. If A is the first data element input into a queue, followed by B, C,
+and D, then _______ is the first element to be removed.
+a. A
+b. B
+c. C
+d. D
+A
+
+
+12-6. The pop operation _______ of the stack.
+a. deletes an item from the top
+b. deletes an item from the bottom
+c. inserts an item at the top
+d. inserts an item at the bottom
+A
+
+
+12-7. The push operation _______ of the stack.
+a. deletes an item from the top
+b. deletes an item from the bottom
+c. inserts an item at the top
+d. inserts an item at the bottom
+C
+
+
+12-8. In a binary tree, each node has _______ two subtrees.
+a. more than
+b. less than
+c. at most
+d. at least
+C
+
+
+12-9. In preorder traversal of a binary tree, the ______.
+a. left subtree is processed first
+b. right subtree is processed first
+c. root is processed first
+d. the root is never processed
+C
+
+
+12-10. In _______ traversal of a binary tree, the right subtree is processed
+last.
+a. preorder
+b. inorder
+c. postorder
+d. any order
+B
+
+
+12-11. In postorder traversal of a binary tree, the root is processed _______.
+a. first
+b. second
+c. last
+d. after the left subtree
+C
+
+
+12-12. In postorder traversal of a binary tree, the left subtree is processed
+_______.
+a. first
+b. second
+c. last
+d. after the right subtree
+A
+
+
+12-13. In _______ traversal of a binary tree, the left subtree is processed
+last.
+a. preorder
+b. inorder
+c. postorder
+d. out of order
+A
+
+
+12-14. In an inorder traversal of a binary tree, the root is processed
+_______.
+a. first
+b. second
+c. last
+d. two times
+B
+
+
+13-1. _______ file can be accessed randomly.
+a. A sequential
+b. An indexed
+c. A hashed
+d. Any
+D
+
+
+13-2. _______ file can be accessed sequentially.
+a. A sequential
+b. An indexed
+c. A hashed
+d. No
+A
+
+
+13-3. When a sequential file is updated, the ______ file gets the actual
+update.
+a. new master
+b. old master
+c. transaction
+d. error report
+A
+
+
+13-4. When a sequential file is updated, the ______ file contains a list of
+all errors occurring during the update process.
+a. new master
+b. old master
+c. transaction
+d. error report
+D
+
+
+13-5. When a sequential file is updated, the ______ file contains the
+changes to be applied.
+a. new master
+b. old master
+c. transaction
+d. error report
+C
+
+
+13-6. After a sequential file is updated, the _______ file contains the most
+current data.
+a. new master
+b. old master
+c. transaction
+d. error report
+A
+
+
+13-7. If the transaction file key is 20 and the first master file key is 25, then
+we _______.
+a. add the new record to the new master file
+b. revise the contents of the old master file
+c. delete the data
+d. write the old master file record to the new master file
+A
+
+
+13-8. If the transaction file key is 20 with a delete code and the master file key is 20, then we _______.
+a. add the transaction to the new master file
+b. revise the contents of the old master file
+c. delete the data
+d. write the old master file record to the new master file
+C
+
+
+13-9.. An indexed file consists of _______.
+a. only a sequential data file
+b. only an index
+c. only a random data file
+d. an index and random data file
+D
+
+
+13-10. The index of an indexed file has _______ fields.
+a. two
+b. three
+c. four
+d. any number of
+A
+
+
+13-11. In the _______ hashing method, selected digits are extracted from
+the key and used as the address.
+a. direct
+b. division remainder
+c. modulo division
+d. digit extraction
+D
+
+
+13-12. In the _______ hashing method, the key is divided by the file size,
+and the address is the remainder plus 1.
+a. direct
+b. modulo division
+c. division remainder
+d. digit extraction
+B
+
+
+13-13. In the _______ hashing method, there are no synonyms or collisions.
+a. direct
+b. modulo division
+c. division remainder
+d. digit extraction
+A
+
+
+13-14. _______ are keys that hash to the same location in the data file.
+a. Collisions
+b. Buckets
+c. Synonyms
+d. Linked lists
+C
+
+
+13-15. When a hashing algorithm produces an address for an insertion key
+and that address is already occupied, it is called a _______.
+a. collision
+b. probe
+c. synonym
+d. linked list
+A
+
+
+13-16. The address produced by a hashing algorithm is the _______
+address.
+a. probe
+b. synonym
+c. collision
+d. home
+D
+
+
+13-17. The _______ area is the file area that contains all the home
+addresses.
+a. probe
+b. linked
+c. hash
+d. prime
+D
+
+
+13-18. In the ______ collision resolution method, we try to put data that can-
+not be placed in location 123 into location 124.
+a. open addressing
+b. linked list
+c. bucket hashing
+d. random hashing
+A
+
+
+14-1. In a three-level DBMS architecture, the layer that interacts directly with the hardware is the ________ level.
+A. internal
+B. conceptual
+C. external
+D. relational
+A
+
+
+14-2. In a three-level DBMS architecture, the ________ level determines where data is actually stored on the storage devices.
+A. internal
+B. conceptual
+C. external
+D. relational
+A
+
+
+14-3. The ________ level of a three-level DBMS architecture defines the logical view of the data.
+A. internal
+B. conceptual
+C. external
+D. relational
+B
+
+
+14-4. The data model and the schema of a DBMS are often defined at the ________ level.
+A. internal
+B. conceptual
+C. external
+D. relational
+B
+
+
+14-5. In a three-level DBMS architecture, the ________ level interacts directly with the users.
+A. internal
+B. conceptual
+C. external
+D. relational
+C
+
+
+14-6. Of the various database models, the ________ model is the most prevalent today.
+A. internal
+B. conceptual
+C. external
+D. relational
+D
+
+
+14-7. Each column in a relation is called ________ .
+A. an attribute
+B. a tuple
+C. insert
+D. update
+A
+
+
+14-8. Each row in a relation is called ________ .
+A. an attribute
+B. a tuple
+C. insert
+D. update
+B
+
+
+14-9. A unary operator is applied to ________ relation(s) and creates an output of ________ relation(s).
+A. one, two
+B. two, one
+C. one, one
+D. two, two
+A
+
+
+14-10. A binary operator is applied to ________ relation(s) and creates an output of ________ relation(s).
+A. one, two
+B. two, one
+C. one, one
+D. two, two
+B
+
+
+14-11. The unary ________ operation always results in a relation that has exactly one more row than the original relation.
+A. an attribute
+B. a tuple
+C. insert
+D. update
+C
+
+
+14-12. If you want to change the value of an attribute of a tuple, you use the ________ operation.
+A. update
+B. join
+C. project
+D. intersection
+A
+
+
+14-13. The operation that takes two relations and combines them based on common attributes is the ________ operation.
+A. update
+B. join
+C. project
+D. intersection
+B
+
+
+14-14. If you need to delete an attribute in a relation, you can use the ________ operation.
+A. update
+B. join
+C. project
+D. intersection
+C
+
+
+14-15. You want to create a relation called New that contains tuples that belong to both relation A and relation B. For this, you can use the ________ operation.
+A. update
+B. join
+C. project
+D. intersection
+D
+
+
+14-16. Which of the following is a unary operator?
+A. project
+B. difference
+C. SQL
+D. Lempel Ziv encoding
+A
+
+
+14-17. Which of the following is a binary operator?
+A. project
+B. difference
+C. SQL
+D. Lempel Ziv encoding
+B
+
+
+14-18. _______ is a declarative language used on relational databases.
+A. project
+B. difference
+C. SQL
+D. Lempel Ziv encoding
+C
+
+
+16-1. Three security goals are _____.
+a. confidentiality, cryptography, and nonrepudiation
+b. confidentiality, encryption, and decryption
+c. confidentiality, integrity, and availability
+d. confidentiality, denial of service, and masquerading
+C
+
+
+16-2. Which of the following attacks is threatening integrity?
+a. Masquerading
+b. Traffic Analysis
+c. Denial of service
+d. Encoding
+A
+
+
+16-3. Which of the following attacks is threatening availability?
+a. Replaying
+b. Modification
+c. Denial of service
+d. Decoding
+C
+
+
+16-4. _____________ means concealing the contents of a message by
+enciphering.
+a. Steganography
+b. Cryptography
+c. Compressing
+d. Authentication
+B
+
+
+16-5. ______________means concealing the message by covering it with
+something else.
+a. Cryptography
+b. Steganography
+c. Compressing
+d. Authentication
+B
+
+
+16-6. In __________cryptography, the same key is used by the sender and
+the receiver.
+a. symmetric-key
+b. asymmetric-key
+c. public-key
+d. open-key
+A
+
+
+16-7. In _________ cryptography, the same key is used in both directions.
+a. symmetric-key
+b. asymmetric-key
+c. public-key
+d. open-key
+A
+
+
+16-8. _________ cryptography is often used for long messages.
+a. Symmetric-key
+b. Asymmetric-key
+c. Public-key
+d. Open-key
+A
+
+
+16-9. ___________ cryptography is often used for short messages.
+a. Symmetric-key
+b. Asymmetric-key
+c. Secret-key
+d. Open-key
+B
+
+
+16-10. __________means that the sender and the receiver expect confiden-
+tiality.
+a. Nonrepudiation
+b. Integrity
+c. Authentication
+d. encryption and decryption
+D
+
+
+16-11. ___________ means that the data must arrive at the receiver exactly
+as they were sent.
+a. Nonrepudiation
+b. Message integrity
+c. Authentication
+d. Secrecy
+B
+
+
+16-12. ______________ can provide authentication, integrity, and nonrepu-
+diation for a message.
+a. Encryption/decryption
+b. Digital signature
+c. Compression
+d. Key-exchange
+B
+
+
+16-13. In ___________, the identity of a party is verified once for the entire
+duration of system access.
+a. entity authentication
+b. message integrity
+c. message authentication
+d. message encryption
+A
+
+
+16-14. In __________ cryptography, everyone has access to everyone's
+public key.
+a. symmetric-key
+b. asymmetric-key
+c. secret-key
+d. private-key
+B
+
+
+16-15. In the asymmetric-key method used for confidentiality, which key(s) is (are) publicly known?
+a. encryption key only
+b. decryption key only
+c. both encryption and decryption keys
+d. neither encryption key nor decryption key
+B
+
+
+16-16. The RSA algorithm for confidentiality uses _______ cryptography.
+a. asymmetric-key
+b. symmetric-key
+c. substitution
+d. transposition
+A
+
+
+16-17. In RSA, if user A wants to send an encrypted message to user B, the plaintext is encrypted with the public key of _______.
+a. user A
+b. user B
+c. the network
+d. a third party.
+B
